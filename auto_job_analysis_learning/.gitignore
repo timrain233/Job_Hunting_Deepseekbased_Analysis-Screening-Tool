@@ -1,0 +1,34 @@
+# Environment
+.env
+.env.local
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Resume / personal data
+resume/
+my_cover.pdf
+*.pdf
+
+# IDE
+.idea/
+.vs/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+job_apply_log.json
+
+# Virtual environment
+venv/
+.venv/
+env/
